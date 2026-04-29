@@ -3,7 +3,7 @@
 ## 🧠 O projektu
 
 Robter je akční RPG hra inspirovaná tituly jako Elden Ring. Hráč se ocitá v temném fantasy světě plném nebezpečných nepřátel, tajemných lokací a silných bossů.
-Cílem hry je prozkoumávat otevřený svět, zlepšovat schopnosti postavy, porážet nepřátele a odhalovat příběh světa ROBTER.
+Cílem hry je prozkoumávat otevřený svět, zlepšovat schopnosti postavy, porážet nepřátele a odhalovat příběh světa Robter.
 
 ---
 
