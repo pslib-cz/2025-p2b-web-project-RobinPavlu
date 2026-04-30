@@ -56,7 +56,7 @@ Cílem webové stránky je:
 
 Návrh webu je vytvořen v nástroji Figma.
 
-🔗 Odkaz na návrh: *(doplň sem odkaz)*
+🔗 Odkaz na návrh: *(https://www.figma.com/design/0bYniZFlWqKxzNMraVLwL9/Untitled?node-id=1-3&t=rt67emTGBnrlsivQ-0)*
 
 ---
 
